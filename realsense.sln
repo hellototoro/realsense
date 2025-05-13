@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CV-examples", "CV-examples"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "save-to-disk", "C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\save-to-disk\save-to-disk.vcxproj", "{6EBD6670-4588-4585-B124-E5E0DB6789A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "capture", "C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\capture\capture.vcxproj", "{C84602D8-7980-4AC9-8CAC-4EB721624777}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello-realsense", "C:\Program Files (x86)\Intel RealSense SDK 2.0\samples\hello-realsense\hello-realsense.vcxproj", "{76816DFD-4A19-4905-B0EA-07EE9434C17D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,6 +47,22 @@ Global
 		{6EBD6670-4588-4585-B124-E5E0DB6789A3}.Release|x64.Build.0 = Release|x64
 		{6EBD6670-4588-4585-B124-E5E0DB6789A3}.Release|x86.ActiveCfg = Release|x64
 		{6EBD6670-4588-4585-B124-E5E0DB6789A3}.Release|x86.Build.0 = Release|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Debug|x64.ActiveCfg = Debug|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Debug|x64.Build.0 = Debug|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Debug|x86.ActiveCfg = Debug|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Debug|x86.Build.0 = Debug|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Release|x64.ActiveCfg = Release|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Release|x64.Build.0 = Release|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Release|x86.ActiveCfg = Release|x64
+		{C84602D8-7980-4AC9-8CAC-4EB721624777}.Release|x86.Build.0 = Release|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Debug|x64.ActiveCfg = Debug|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Debug|x64.Build.0 = Debug|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Debug|x86.ActiveCfg = Debug|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Debug|x86.Build.0 = Debug|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Release|x64.ActiveCfg = Release|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Release|x64.Build.0 = Release|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Release|x86.ActiveCfg = Release|x64
+		{76816DFD-4A19-4905-B0EA-07EE9434C17D}.Release|x86.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
